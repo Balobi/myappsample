@@ -1,1 +1,1 @@
-condsole.log
+condsole.log and tell me about instanceof
